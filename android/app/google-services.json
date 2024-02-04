@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312994959798",
+    "project_id": "gothomhack-a75a2",
+    "storage_bucket": "gothomhack-a75a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312994959798:android:b4536d19c9d07e48d6f117",
+        "android_client_info": {
+          "package_name": "com.example.gothomhack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdO61-uRIBSwRvxeUUm3ssEd2Hb36MbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
